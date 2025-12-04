@@ -14,3 +14,5 @@ The hardest challenge I faced while making this project was figuring out how to 
 I probably won’t work on this project any further, but if I did I would further polish the Cyclops’s model and animations.
 
 Google Drive Link: [https://drive.google.com/file/d/1po6dGUBr9jpYTI6mD9VAGfFT4\_U1gVLA/view?usp=sharing](https://drive.google.com/file/d/1po6dGUBr9jpYTI6mD9VAGfFT4_U1gVLA/view?usp=sharing)
+
+YouTube Video Link: [https://youtu.be/eI8PPZ50pfc](https://youtu.be/eI8PPZ50pfc)
